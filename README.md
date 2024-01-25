@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-brightgreen?style=for-the-badge" alt="Cybersecurity">
   <img src="https://img.shields.io/badge/Web%20Development-red?style=for-the-badge" alt="Web Development">
   <img src="https://img.shields.io/badge/Fast%20Learner-blue?style=for-the-badge" alt="Fast Learner">
-  <img src="https://img.shields.io/badge/Web%20Development-red?style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/Linux-red?style=for-the-badge" alt="Linux">
   <br>
 </div>
 
