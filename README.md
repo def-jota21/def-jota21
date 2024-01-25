@@ -88,10 +88,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) 
-<Br>
-[![Top Langs]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+[![Julián's github stats](https://github-readme-stats.vercel.app/api?username=def-jota21&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=def-jota21&layout=compact&theme=merko)](https://github.com/def-jota21/github-readme-stats)
 
 
 <hr>
