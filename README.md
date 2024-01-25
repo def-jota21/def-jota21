@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-brightgreen?style=for-the-badge" alt="Cybersecurity">
   <img src="https://img.shields.io/badge/Web%20Development-red?style=for-the-badge" alt="Web Development">
   <img src="https://img.shields.io/badge/Fast%20Learner-blue?style=for-the-badge" alt="Fast Learner">
+  <img src="https://img.shields.io/badge/Web%20Development-red?style=for-the-badge" alt="Linux">
   <br>
 </div>
 
@@ -67,7 +68,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=def-jota21&repo=ProyectoTravelNest)](https://github.com/def-jota21/ProyectoTravelNest)
 
 <Br>
 <hr>
@@ -75,7 +76,7 @@
 <h1>Certifications! 🏆</h1>
 <Br>
   
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
+|[![](https://img.shields.io/badge/Python%20Essentials%201-red?style=for-the-badge)](https://www.credly.com/badges/65c0cd62-fc51-48f0-922b-1c75d8de7b2e/public_url)|[![](https://img.shields.io/badge/Ethical%20Hacking%20Essentials%20(EHE)-blue?style=for-the-badge)](https://codered.eccouncil.org/certificate/aae47bb1-3833-45de-b3f0-2d20989694fe?logged=true)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
 |---|---|---|---|
 |[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
   
