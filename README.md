@@ -71,6 +71,7 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=def-jota21&repo=ProyectoTravelNest)](https://github.com/def-jota21/ProyectoTravelNest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=def-jota21&repo=EncrypMessage)](https://github.com/def-jota21/EncrypMessage)
 
 <Br>
 <hr>
